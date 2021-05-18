@@ -1,1 +1,1 @@
-<?php include("s2Lab.html") ?>
+<?php include 'index.html'; ?>
